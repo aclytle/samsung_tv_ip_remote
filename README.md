@@ -3,7 +3,8 @@ pip install websockets
 
 Currently only tested on model UN50JU6400
 
-```Usage: samsung-client.py [ip] [command]
+<MTMarkdownOptions output='raw'>
+Usage: samsung-client.py [ip] [command]
 Available commands:
 back
 down
@@ -30,4 +31,5 @@ soft_c
 soft_d
 stop
 tools
-up```
+up
+</MTMarkdownOptions>
